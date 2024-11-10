@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Georgi, a final-year chemistry student with interests spanning across chemistry, mathematics and computer science 💻
+I'm Georgi, a final-year chemistry student with interests spanning across chemistry, mathematics and computer science 💻  
 🔭 I’m currently working on a graph neural network model to simulate hydrogenated amorphous silicon.
 ⚡ Fun facts about me:
   * Originally from Bulgaria 🇧🇬
